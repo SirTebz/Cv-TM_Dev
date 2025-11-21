@@ -19,10 +19,10 @@ A clean and responsive single-page CV (Curriculum Vitae) website built with HTML
 ```
 
 
-├── assets/             # Additional assets
-├── img/                # Image assets
+├── docs/             # Additional assets
+├── images/                # Image assets
 ├── index.html          # Main HTML file
-├── style.css           # CSS styling
+├── styles/style.css           # CSS styling
 ├── LICENSE             # License file
 └── README.md           # Project documentation
 ```
@@ -36,7 +36,7 @@ To view the CV locally:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/SirTebz/Single-Page-CV.git
+   git clone https://github.com/SirTebz/Cv-TM_Dev.git
    ```
 
 
@@ -44,7 +44,7 @@ To view the CV locally:
 2. **Navigate to the project directory**:
 
    ```bash
-   cd Single-Page-CV
+   cd Cv-TM_Dev
    ```
 
 
@@ -55,8 +55,9 @@ No additional setup or dependencies are required.
 
 ## 📬 Live Demo
 
-Check out [Live Demo](https://sirtebz.github.io/Single-Page-CV/)
+Check out [Live Demo](https://sirtebz.github.io/Cv-TM_Dev/)
 
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
